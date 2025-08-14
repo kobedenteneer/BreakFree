@@ -28,6 +28,13 @@ const EducationScreen: React.FC = () => {
         'Sporten en bewegen',
         'Meditatie en mindfulness',
       ],
+
+
+
+
+
+
+      
     },
     {
       id: 'gamen',
