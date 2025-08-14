@@ -35,7 +35,7 @@ const CravingHelpScreen: React.FC = () => {
   const distractions = [
     {
       title: 'Muziek Luisteren',
-      description: 'Zet jejejej je favoriete muziek op en focus op de tekst',
+      description: 'Zet je favoriete muziek op en focus op de tekst',
     },
     {
       title: 'Korte Game',
